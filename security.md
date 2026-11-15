@@ -200,3 +200,6 @@ Use the button in the Quick Start section.
 ---
 
 *Dying Light 2 Stay Human · Updated 2026-11-15 · Shared under the MIT License*
+
+
+*Last updated: 2026-11-15*
